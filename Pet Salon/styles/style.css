@@ -1,0 +1,38 @@
+.error{
+    border-color: red;
+}
+
+.error-label{
+    color: red;
+}
+
+.my-card{
+    width: 200px;
+    border-color: gray;
+    padding: 5px;
+    margin: 5px;
+    display: inline-flex;
+}
+
+.highlight{
+    background-color: green;
+}
+.homewall{
+    background-color:greenyellow;
+}
+.windowwall{
+    background-color: blueviolet;
+}
+.display-1{
+    text-align: center;
+    color: rgb(117, 31, 31);
+}
+#footer-info{
+    text-align: center !important;
+}
+
+.dogpics{
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+}
